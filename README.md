@@ -49,9 +49,9 @@
 
 - `preview`: Preview the production build locally.
 
-- `lint:js`: Build the app for production.
+- `lint:js`: Run JS linter.
 
-- `lint:css`: Build the app for production.
+- `lint:css`: Run CSS linter.
 
 - `lint`: Run both JS and CSS linters.
 
